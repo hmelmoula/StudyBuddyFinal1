@@ -3,6 +3,19 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to StudyBuddy</h1>
+
+    <p class="lead mt-3">
+        Organise your courses, manage your tasks, and stay on track with your studies.
+    </p>
+
+    <div class="mt-4">
+        <a class="btn btn-primary btn-lg me-2" asp-controller="Courses" asp-action="Index">
+            View Courses
+        </a>
+
+        <a class="btn btn-success btn-lg" asp-controller="TaskItems" asp-action="Index">
+            View Tasks
+        </a>
+    </div>
 </div>
