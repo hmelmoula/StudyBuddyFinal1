@@ -1,95 +1,99 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\",
+  "WorkspaceRootPath": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\taskitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\taskitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A78CF9D1-17BA-4537-B929-4A5F8A18CDD7}|..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1.tests\\taskitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A78CF9D1-17BA-4537-B929-4A5F8A18CDD7}|..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1.tests\\courseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A78CF9D1-17BA-4537-B929-4A5F8A18CDD7}|..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1.tests\\studybuddyfinal1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\data\\migrations\\20260505152413_addtaskitemcourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:data\\migrations\\20260505152413_addtaskitemcourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\services\\taskitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:services\\taskitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\data\\migrations\\20260505152413_addtaskitemcourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:data\\migrations\\20260505152413_addtaskitemcourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\services\\taskitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:services\\taskitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\studybuddyfinal1-master\\studybuddyfinal1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,7 +103,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -107,36 +111,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskItemServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
-              "RelativeToolTip": "..\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:02:46.151Z",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\TaskItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaskItems\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\TaskItems\\Delete.cshtml",
+              "RelativeToolTip": "Views\\TaskItems\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T17:06:06.736Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
-              "RelativeToolTip": "..\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:01:59.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
               "RelativeToolTip": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "StudyBuddyFinal1.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
               "RelativeToolTip": "obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAMwA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StudyBuddyFinal1.csproj",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
               "RelativeDocumentMoniker": "StudyBuddyFinal1.csproj",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
               "RelativeToolTip": "StudyBuddyFinal1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -169,12 +161,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:46:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T14:59:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
+              "RelativeToolTip": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:01:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
+              "RelativeToolTip": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:02:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "StudyBuddyFinal1.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
               "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
-              "RelativeToolTip": "..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "RelativeToolTip": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-05T16:02:05.06Z"
@@ -183,9 +225,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Program.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "20260505152413_AddTaskItemCourseId.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
               "RelativeToolTip": "Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "TaskItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Controllers\\TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\TaskItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskItemsController.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\TaskItemsController.cs",
               "RelativeToolTip": "Controllers\\TaskItemsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "TaskItemService.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Services\\TaskItemService.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\TaskItemService.cs",
               "RelativeDocumentMoniker": "Services\\TaskItemService.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Services\\TaskItemService.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\TaskItemService.cs",
               "RelativeToolTip": "Services\\TaskItemService.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,9 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Services\\CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "Services\\CourseService.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\CourseService.cs",
               "RelativeToolTip": "Services\\CourseService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA3wBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,23 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:46:05.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\TaskItem.cs",
               "RelativeToolTip": "Models\\TaskItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Index.cshtml",
               "RelativeToolTip": "Views\\Courses\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -289,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Edit.cshtml",
               "RelativeToolTip": "Views\\Courses\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Details.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Details.cshtml",
               "RelativeToolTip": "Views\\Courses\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -313,23 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Courses\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T14:59:54.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Create.cshtml",
               "RelativeToolTip": "Views\\Courses\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,11 +355,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\appsettings.json",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

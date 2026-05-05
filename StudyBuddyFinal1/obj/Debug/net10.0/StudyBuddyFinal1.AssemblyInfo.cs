@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyBuddyFinal1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c1cfa0b765c765b328299af2df485029f9ad35")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyBuddyFinal1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyBuddyFinal1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

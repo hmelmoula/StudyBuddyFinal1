@@ -6397,11 +6397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
+      "projectUniqueName": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
       "projectName": "StudyBuddyFinal1",
-      "projectPath": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
+      "projectPath": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
       "packagesPath": "C:\\Users\\adinm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1\\obj\\",
+      "outputPath": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
