@@ -1,7 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using StudyBuddyFinal1.Models;
 using StudyBuddyFinal1.Services;
-using Microsoft.AspNetCore.Authorization;
 
 namespace StudyBuddyFinal1.Controllers
 {
