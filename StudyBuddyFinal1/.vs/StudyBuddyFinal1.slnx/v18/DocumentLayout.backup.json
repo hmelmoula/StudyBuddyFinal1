@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A78CF9D1-17BA-4537-B929-4A5F8A18CDD7}|..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1.tests\\studybuddyfinal1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:studybuddyfinal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BBD146A-3634-5BD6-C9A1-C9CD1A8683AE}|StudyBuddyFinal1.csproj|c:\\users\\adinm\\downloads\\cleanstudybuddy\\studybuddyfinal1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -111,33 +98,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T17:31:43.703Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudyBuddyFinal1.Tests",
+              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "RelativeToolTip": "..\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T04:00:47.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -145,25 +127,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T17:31:22.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T17:31:22.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudyBuddyFinal1.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net10.0\\StudyBuddyFinal1.AssemblyInfo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T15:53:31.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -171,18 +139,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:47:10.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T14:47:10.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAuwGQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T14:46:05.437Z",
               "EditorCaption": ""
@@ -190,31 +157,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StudyBuddyFinal1.csproj",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
-              "RelativeDocumentMoniker": "StudyBuddyFinal1.csproj",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\StudyBuddyFinal1.csproj",
-              "RelativeToolTip": "StudyBuddyFinal1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-05T15:06:02.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T15:55:17.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -222,12 +164,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:56:24.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T14:56:24.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\TaskItems\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\TaskItems\\Delete.cshtml",
@@ -235,12 +176,11 @@
               "RelativeToolTip": "Views\\TaskItems\\Delete.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T17:06:06.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T17:06:06.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
@@ -252,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "CourseServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
               "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\CourseServiceTests.cs",
@@ -264,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "TaskItemServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
               "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\TaskItemServiceTests.cs",
@@ -276,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "StudyBuddyFinal1.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
               "RelativeDocumentMoniker": "..\\..\\StudyBuddyFinal1-master\\StudyBuddyFinal1.Tests\\StudyBuddyFinal1.Tests.csproj",
@@ -288,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -300,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "20260505152413_AddTaskItemCourseId.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20260505152413_AddTaskItemCourseId.cs",
@@ -312,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "TaskItemsController.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Controllers\\TaskItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskItemsController.cs",
@@ -324,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "TaskItemService.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\TaskItemService.cs",
               "RelativeDocumentMoniker": "Services\\TaskItemService.cs",
@@ -336,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "CourseService.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "Services\\CourseService.cs",
@@ -348,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
@@ -360,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
@@ -372,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
@@ -384,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Details.cshtml",
@@ -396,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Views\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
@@ -408,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -420,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
@@ -432,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\adinm\\Downloads\\CleanStudyBuddy\\StudyBuddyFinal1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
